@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WebRTC">
+  <DataContextMoniker Name="/WebRTCDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ab0f5a9a-e2a2-4e5e-bd3e-421f4a3918f8" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WebRTCDataContext/CandidatesTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3c8263b-dfbb-44ba-8726-cfbb774e8bcb" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11dc35fb-0ecd-4d0b-9775-3f89bab3eda5" absoluteBounds="3.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/WebRTCDataContext/Room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5dc4e061-9aa5-4398-b4ee-0b2c794bc0d0" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6621f695-ff32-447c-bd83-a0eb76cfd124" absoluteBounds="0.75, 4.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/WebRTCDataContext/SDPMessage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97757496-77ee-444c-8b06-54fc724440b7" absoluteBounds="0.765, 5.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
